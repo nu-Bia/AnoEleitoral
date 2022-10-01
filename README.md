@@ -1,5 +1,6 @@
 # AnoEleitoral
 As eleições gerais no Brasil em 2022 estão agendadas para o dia 2 de Outubro, para o primeiro turno, e em 30 de Outubro em caso de um segundo turno. Sendo uma obrigação de todo cidadão alfabetizado e maior de 18 anos, pensando nisso resolvi trazer como tématica para essa página as eleições 2022.
+
 Faz apenas 34 anos que o Brasil de fato se tornou um país democrata onde o voto é um direito de todo cidadão adulto independente de gênero, cor, renda ou escolaridade . 
 Essa conquista só foi possível após a constituição de 1988 , que priorizava a construção de uma sociedade livre,justa e solidária.
 Quando analisamos o histórico dos governantes brasileiros podemos perceber a concentração de poderes em apenas uma parcela da população, violência e ditadura são palavras que definem muito bem esse contexto.
